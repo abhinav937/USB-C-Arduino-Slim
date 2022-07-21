@@ -1,3 +1,3 @@
-## USB-C-Arduino-Slim 
-An Arduino board with USB C port for data transfer and power.__
-It bit lengthier than Nano. Because it has 2 voltage regulators(5V and 3.3V)_
+## USB-C-Arduino-Slim <br />
+An Arduino board with USB C port for data transfer and power.<br />
+It bit lengthier than Nano. Because it has 2 voltage regulators(5V and 3.3V)<br />
